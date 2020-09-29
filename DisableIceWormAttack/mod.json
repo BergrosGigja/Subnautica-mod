@@ -1,0 +1,9 @@
+{
+  "Id": "DisableIceWormAttack",
+  "DisplayName": "DisableIceWormAttack",
+  "Author": "Gardinur",
+  "Version": "1.0.0",
+  "Enable": true,
+  "Game": "BelowZero",
+  "AssemblyName": "DisableIceWormAttack.dll"
+}
